@@ -1,0 +1,2 @@
+# TransferLearningWithMobileNetArchitecture
+Practicing TransferLearning method with MobileNet Architecture
